@@ -4,5 +4,5 @@ C’est un immense plaisir de pouvoir vous parler dans cette vidéo, car nous al
 
 Dès le début, je souhaiterais attirer votre attention, car ce que vous allez découvrir dans cette vidéo pourrait changer votre quotidien, tant dans votre vie personnelle que dans votre activité professionnelle. Alors, restez avec nous jusqu’au bout.
 
-[Retour au sommaire](00_Sommaire.md)  
-[Partie suivante →](02_Accroche.md)
+[Partie suivante →](02_Accroche.md)  
+[Retour au sommaire](00_Sommaire.md)

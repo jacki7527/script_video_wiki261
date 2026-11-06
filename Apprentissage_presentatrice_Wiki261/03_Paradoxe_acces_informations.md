@@ -8,6 +8,6 @@ Le plus préoccupant, c’est que nous avons fini par utiliser les réseaux soci
 
 Cette réalité nous oblige à agir : Madagascar mérite son propre outil de recherche, conçu exclusivement pour son territoire, afin que chacun puisse accéder facilement et en toute confiance aux informations pratiques du quotidien.
 
+[Partie suivante →](04_La_vision.md)  
 [← Partie précédente](02_Accroche.md)  
-[Retour au sommaire](00_Sommaire.md)  
-[Partie suivante →](04_La_vision.md)
+[Retour au sommaire](00_Sommaire.md)
