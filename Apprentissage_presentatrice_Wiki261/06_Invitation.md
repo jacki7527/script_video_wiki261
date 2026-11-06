@@ -24,4 +24,6 @@ Le Wiki261 a vocation à faciliter cet accès en regroupant progressivement ces 
 
 La manière dont cette plateforme vous accompagne se distingue des plateformes que vous connaissez déjà.
 
-[← Partie précédente](05_Demonstration_application.md) · [Retour au sommaire](00_Sommaire.md) · [Partie suivante →](07_Message_final.md)
+[← Partie précédente](05_Demonstration_application.md)  
+[Retour au sommaire](00_Sommaire.md)  
+[Partie suivante →](07_Message_final.md)

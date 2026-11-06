@@ -4,4 +4,5 @@ Merci d’être restés avec nous jusqu’au bout de cette vidéo, car vous vene
 
 Le Wiki261, c’est notre future porte d’entrée vers l’information pratique à Madagascar.
 
-[← Partie précédente](06_Invitation.md) · [Retour au sommaire](00_Sommaire.md)
+[← Partie précédente](06_Invitation.md)  
+[Retour au sommaire](00_Sommaire.md)
