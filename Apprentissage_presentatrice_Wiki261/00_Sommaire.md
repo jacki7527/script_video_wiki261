@@ -13,9 +13,20 @@
 4. [La vision](04_La_vision.md)
 5. [Démonstration réelle de l’application](05_Demonstration_application.md)
 6. [Invitation](06_Invitation.md)
+7. [Message final](07_Message_final.md)
 
-## Message final
+## Aperçu des parties
 
-Merci d’être restés avec nous jusqu’au bout de cette vidéo, car vous venez d’assister à la naissance d’une grande initiative : non pas une simple plateforme, ni une simple application, mais une infrastructure numérique malgache dédiée à l’information pratique.
+**Introduction :** *présente le projet digital Wiki261 et son objectif : faciliter l’accès aux informations pratiques locales à Madagascar.*
 
-Le Wiki261, c’est notre future porte d’entrée vers l’information pratique à Madagascar.
+**Accroche :** *place le téléspectateur dans une situation concrète de recherche d’informations, par exemple lors de la préparation d’un voyage.*
+
+**Le paradoxe de l’accès aux informations :** *explique que les personnes qui cherchent les informations et les informations elles-mêmes existent déjà, mais qu’elles ne sont pas réunies au même endroit.*
+
+**La vision :** *présente Le Wiki261, sa mission de fiabiliser, centraliser et structurer les informations pratiques locales.*
+
+**Démonstration réelle de l’application :** *montre concrètement les pages, la recherche, les filtres et les fiches d’informations de la plateforme.*
+
+**Invitation :** *invite les opérateurs économiques et les organisations à rejoindre l’initiative, en commençant par la Région Atsinanana.*
+
+**Message final :** *conclut avec l’ambition du projet : faire du Wiki261 la future porte d’entrée vers l’information pratique à Madagascar.*
