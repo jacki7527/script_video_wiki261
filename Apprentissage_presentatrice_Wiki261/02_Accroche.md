@@ -1,6 +1,6 @@
 # 2. Accroche
 
-Nous allons imaginer ensemble un scénario. Imaginez que vous préparez un voyage à Madagascar : à Nosy Be, à Sainte-Marie, à Tuléar ou dans toute autre destination du pays.
+Pour vous mettre dans le contexte, nous allons imaginer ensemble un scénario : imaginez que vous préparez un voyage à Madagascar, à Nosy Be, à Sainte-Marie, à Tuléar ou dans toute autre destination du pays.
 
 Vous recherchez par exemple :
 
@@ -14,6 +14,6 @@ Bref, la liste est longue.
 
 La question que nous vous posons maintenant est donc la suivante : parmi les solutions numériques que vous utilisez actuellement, laquelle vous permet réellement de résoudre ce problème et de répondre à ce besoin en toute confiance ?
 
-Aujourd’hui, la réponse est claire : aucune. Ni les réseaux sociaux, ni les moteurs de recherche, ni même les intelligences artificielles ne sont conçus pour répondre pleinement aux réalités de nos territoires.
+Aujourd’hui, la réponse est claire : malheureusement, aucune solution ne permet encore de trouver toutes ces informations pratiques locales, réunies en un seul lieu, facilement et en toute confiance.
 
 [← Retour au sommaire](00_Sommaire.md)

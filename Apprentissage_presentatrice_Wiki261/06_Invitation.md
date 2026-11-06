@@ -1,6 +1,8 @@
 # 6. Invitation
 
-L’application Le Wiki261 est désormais disponible en ligne et prête à servir la communauté en quête d’informations pratiques. Avec nos partenaires, nous avons choisi la Région Atsinanana comme région pilote pour son déploiement : une première étape avant une extension progressive vers les autres régions de Madagascar.
+Nous avons vu ensemble, à présent, à quel point cette application peut façonner votre quotidien et répondre concrètement aux besoins de toute une communauté. Elle est prête à servir celles et ceux qui recherchent, partagent et rendent accessibles les informations pratiques locales à Madagascar.
+
+Avec nos partenaires, nous avons choisi la Région Atsinanana comme région pilote pour son déploiement : une première étape avant une extension progressive vers les autres régions de Madagascar.
 
 Notre force réside dans le fait que nous ne portons pas cette initiative seuls. Le Gouvernement malgache et plusieurs institutions accompagnent cette démarche, notamment l’Office Régional du Tourisme de Toamasina (ORTT), la Chambre de commerce de Toamasina et bien d’autres encore.
 

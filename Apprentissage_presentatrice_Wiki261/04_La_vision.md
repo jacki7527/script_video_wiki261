@@ -6,8 +6,10 @@ Sa vocation première est de recueillir les contributions envoyées par les util
 
 L’application centralise ensuite ces données et les organise par secteur afin de les rendre facilement accessibles.
 
-Progressivement, elle deviendra une encyclopédie numérique, locale et vivante de Madagascar. Nous ne cherchons pas à copier ce que d’autres plateformes font déjà très bien. Nous répondons à un besoin complémentaire : faciliter, à tout moment, l’accès aux informations pratiques locales.
+Progressivement, elle deviendra une encyclopédie numérique, locale et vivante de Madagascar, sans chercher à copier ce que d’autres plateformes font déjà très bien, mais en répondant au contraire à un besoin complémentaire : faciliter, à tout moment, l’accès aux informations pratiques locales.
 
 Ainsi, Le Wiki261 ne cherche pas simplement à promouvoir des entreprises, des services, des établissements, des professionnels et bien d’autres activités. Il vise à organiser l’accès aux informations pratiques locales, secteur par secteur.
+
+Découvrons maintenant, à travers une démonstration réelle de cas d’utilisation, comment cette application peut vous être pratique au quotidien.
 
 [← Retour au sommaire](00_Sommaire.md)

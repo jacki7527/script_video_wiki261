@@ -1,6 +1,6 @@
 # 3. Le paradoxe de l’accès aux informations
 
-À une époque où les technologies sont déjà très avancées, Madagascar vit encore un paradoxe : chaque jour, presque tout le monde recherche une information pratique, qu’il s’agisse d’un service, d’un lieu, d’un contact ou d’une opportunité.
+Et c’est bien là le cœur de notre problème : à une époque où les technologies sont aussi avancées, Madagascar vit encore un paradoxe. Chaque jour, presque tout le monde cherche une information pratique, qu’il s’agisse d’un service, d’un lieu, d’un contact ou d’une opportunité.
 
 Pourtant, les informations recherchées existent déjà. Elles circulent séparément, portées par les entreprises, les établissements, les communautés et les territoires. Sans un espace commun pour les rassembler, elles deviennent difficiles à identifier et à retrouver.
 
