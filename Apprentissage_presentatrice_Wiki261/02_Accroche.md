@@ -16,4 +16,4 @@ La question que nous vous posons maintenant est donc la suivante : parmi les sol
 
 Aujourd’hui, la réponse est claire : malheureusement, aucune solution ne permet encore de trouver toutes ces informations pratiques locales, réunies en un seul lieu, facilement et en toute confiance.
 
-[← Retour au sommaire](00_Sommaire.md)
+[← Partie précédente](01_Introduction.md) · [Retour au sommaire](00_Sommaire.md) · [Partie suivante →](03_Paradoxe_acces_informations.md)

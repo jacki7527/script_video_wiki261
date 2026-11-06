@@ -15,7 +15,7 @@
 6. [Invitation](06_Invitation.md)
 7. [Message final](07_Message_final.md)
 
-## Aperçu des parties
+## Résumé des sommaires
 
 **Introduction :** *présente le projet digital Wiki261 et son objectif : faciliter l’accès aux informations pratiques locales à Madagascar.*
 

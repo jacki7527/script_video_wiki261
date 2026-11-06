@@ -8,4 +8,4 @@
 6. Disponibilité de la plateforme : site web, iPhone et Android
 7. Vidéos de cas d’usage
 
-[← Retour au sommaire](00_Sommaire.md)
+[← Partie précédente](04_La_vision.md) · [Retour au sommaire](00_Sommaire.md) · [Partie suivante →](06_Invitation.md)

@@ -12,4 +12,4 @@ Ainsi, Le Wiki261 ne cherche pas simplement à promouvoir des entreprises, des s
 
 Découvrons maintenant, à travers une démonstration réelle de cas d’utilisation, comment cette application peut vous être pratique au quotidien.
 
-[← Retour au sommaire](00_Sommaire.md)
+[← Partie précédente](03_Paradoxe_acces_informations.md) · [Retour au sommaire](00_Sommaire.md) · [Partie suivante →](05_Demonstration_application.md)
